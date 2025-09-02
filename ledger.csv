@@ -1,0 +1,2 @@
+date,artifact,metric,effort_hours,link,external_contact
+2025-09-02,fn-evals v0.1 pushed + CI,runtime_s baseline & correctness,2.0,https://github.com/jadjitsu/fn-evals,none
